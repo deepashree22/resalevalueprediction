@@ -18,7 +18,7 @@ To know how to evaluate the model.
 
 To build web applications using the Flask framework.
 
-#Project Flow
+# Project Flow
 
 The user interacts with the UI (User Interface) to enter the input features
 
