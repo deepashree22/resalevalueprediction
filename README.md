@@ -17,3 +17,26 @@ Applying different algorithms according to the dataset
 To know how to evaluate the model.
 
 To build web applications using the Flask framework.
+
+#Project Flow
+
+The user interacts with the UI (User Interface) to enter the input features
+
+Entered input features are analyzed by the model which is integrated
+
+Once the model analyses the input, the prediction is showcased on the UI
+
+To accomplish this, we have to complete all the activities and tasks listed below
+Download the dataset.
+
+Preprocess or clean the data.
+
+Analyze the pre-processed data.
+
+Train the machine with preprocessed data using an appropriate machine learning algorithm.
+
+Save the model and its dependencies.
+
+Build a Web application using Flask that integrates with the model built.
+
+
